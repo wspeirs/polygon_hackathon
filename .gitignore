@@ -1,0 +1,4 @@
+.idea
+.env
+stock_prices/*.parquet
+
